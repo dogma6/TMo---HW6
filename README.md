@@ -1,2 +1,2 @@
 # TMo---HW6
-HW6 Vovchuk
+HW6 
